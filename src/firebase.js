@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSy8fSEgulQrrzwhfNFHSIegWlLCAf9tqQik",
+  apiKey: "AIzaSyBfSEgulQrrzwhfNFHSIegW1lCAf9tqQik",
   authDomain: "syncra-ai-6b4dd.firebaseapp.com",
   projectId: "syncra-ai-6b4dd",
   storageBucket: "syncra-ai-6b4dd.firebasestorage.app",
